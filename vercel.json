@@ -1,0 +1,8 @@
+{
+  "functions": {
+    "api/score-for-cancer-total.js": {
+      "memory": 1024,
+      "maxDuration": 30
+    }
+  }
+}
